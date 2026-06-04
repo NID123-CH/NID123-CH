@@ -6,7 +6,7 @@ Passionate about building intelligent, scalable solutions using Machine Learning
 * Advanced LLM Applications<br>* Agentic AI Systems<br>* MLOps & AI Deployment<br>* Responsible & Ethical AI<br>* Retrieval-Augmented Generation (RAG)<br>
 # 📂 Areas of Interest<br>
 * Machine Learning Solutions<br>* Generative AI Applications<br>* Natural Language Processing<br>* Intelligent Automation<br>* Data Science & Analytics<br>* Cloud-Based AI Systems<br>
-# 📫 Connect With Me<br>* LinkedIn: https://www.linkedin.com/in/nidhi-chawla-044a999b/<br>⭐ Open to collaborating on innovative AI projects, open-source contributions, and cutting-edge Generative AI solutions.<br>
+# 📫 Connect With Me<br>* LinkedIn: https://www.linkedin.com/in/nidhi-chawla-044a999b/<br><br>⭐ Open to collaborating on innovative AI projects, open-source contributions, and cutting-edge Generative AI solutions.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
